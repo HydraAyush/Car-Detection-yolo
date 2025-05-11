@@ -1,0 +1,10 @@
+train: "F:/The Ultimate project/dataset/images/train"
+val: "F:/The Ultimate project/dataset/images/val"
+
+nc: 17  # Number of classes
+
+names: [
+    "Maruti_Suzuki_Swift", "Hyundai_Creta", "Tata_Nexon", "Mahindra_Scorpio", "Kia_Seltos", "Toyota_Fortuner", "BMW_X5", "Audi_Q7",
+    "Kia_Sonet", "Maruti_S_Cross", "Maruti_Grand_Vitara", "Maruti_Baleno", "Maruti_WagonR", "Tata_Nano", "Tata_Punch",
+    "Hyundai_i20", "Hyundai_Verna"
+]  # Replace with actual car names
